@@ -9,3 +9,11 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0119-pascals-triangle-ii) |
+# Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0908-middle-of-the-linked-list) |
+# Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0908-middle-of-the-linked-list) |
