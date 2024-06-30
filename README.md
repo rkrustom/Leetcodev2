@@ -37,4 +37,13 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rkrustom/Leetcodev2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Array
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Sorting
+|  |
+| ------- |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
