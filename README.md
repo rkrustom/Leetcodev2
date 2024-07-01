@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
