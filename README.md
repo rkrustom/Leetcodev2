@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/rkrustom/Leetcodev2/tree/master/1293-three-consecutive-odds) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
