@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/rkrustom/Leetcodev2/tree/master/1642-water-bottles) |
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
@@ -76,5 +77,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/rkrustom/Leetcodev2/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rkrustom/Leetcodev2/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
