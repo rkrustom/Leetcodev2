@@ -29,11 +29,13 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rkrustom/Leetcodev2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rkrustom/Leetcodev2/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rkrustom/Leetcodev2/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rkrustom/Leetcodev2/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
