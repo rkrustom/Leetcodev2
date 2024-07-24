@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/rkrustom/Leetcodev2/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -90,6 +91,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [1642-water-bottles](https://github.com/rkrustom/Leetcodev2/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rkrustom/Leetcodev2/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -100,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
