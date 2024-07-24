@@ -10,41 +10,19 @@
  */
 class Solution {
 public:
-      
-    void reverse(ListNode*&head,ListNode*curr,ListNode*prev){
-    //base case
-    if(curr==NULL){
-        head=prev;
-        return;
-    }
-    ListNode*forward=curr->next;
-    //curr->next=prev;
-    reverse(head,forward,curr);
-    curr->next=prev;
-    }
-
     ListNode* reverseList(ListNode* head) {
-        //recursive solution
-        ListNode*prev=NULL;
-        ListNode*curr=head;
-        reverse(head,curr,prev);
-        return head;
-
-        
-
-        /*
-        if(head==NULL || head->next==NULL)
-        return head;
-        ListNode*prev=NULL;
-        ListNode*curr=head;
-        ListNode*forward=NULL;
-        while(curr!=NULL){
-        forward=curr->next;
-        curr->next=prev;
-        prev=curr;
-        curr=forward;
-        }
-        return prev;
-        */
+    ListNode* temp=head;
+    stack<int> s;
+    while(temp!=NULL){
+    s.push(temp->val);
+    temp=temp->next;
+    }
+     temp=head;
+     while(temp!=NULL){
+        temp->val=s.top();
+        s.pop();
+        temp=temp->next;
+     }
+   return head;
     }
 };
