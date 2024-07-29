@@ -196,4 +196,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/rkrustom/Leetcodev2/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
