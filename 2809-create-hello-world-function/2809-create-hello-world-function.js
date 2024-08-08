@@ -1,12 +1,12 @@
 /**
  * @return {Function}
  */
-// var createHelloWorld = function(args) {
+var createHelloWorld = function(args) {
     
-//     return function(...args) {
-        
-//     }
-// };
+    return function(...args) {
+        return "Hello World";
+    }
+};
 
 
 /**
@@ -14,9 +14,19 @@
  * f(); // "Hello World"
  */
 
+//MY SOLUTION
+
+
+//  function createHelloWorld(){
+//     function f(){
+//         return "Hello World";
+//     }
+//     return f;
+//  }
+
+
  function createHelloWorld(){
-    function f(){
+   return function f(){
         return "Hello World";
-    }
-    return f;
+    } 
  }
