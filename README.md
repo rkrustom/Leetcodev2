@@ -50,6 +50,7 @@
 | [0031-next-permutation](https://github.com/rkrustom/Leetcodev2/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0217-contains-duplicate](https://github.com/rkrustom/Leetcodev2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rkrustom/Leetcodev2/tree/master/0238-product-of-array-except-self) |
@@ -166,6 +167,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
 | [1196-filling-bookcase-shelves](https://github.com/rkrustom/Leetcodev2/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rkrustom/Leetcodev2/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
