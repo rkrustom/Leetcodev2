@@ -42,6 +42,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rkrustom/Leetcodev2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rkrustom/Leetcodev2/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Array
@@ -135,6 +136,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
+| [0151-reverse-words-in-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/0151-reverse-words-in-a-string) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
