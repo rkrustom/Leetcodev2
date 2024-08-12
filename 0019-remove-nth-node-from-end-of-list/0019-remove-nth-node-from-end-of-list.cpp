@@ -11,35 +11,26 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        // agar linkedlist me koi element hi na ho
         if(head==NULL) return NULL;
-        //counting the length of the linkedlist
-        int count=0;
-        ListNode*temp=head;
-        while(temp!=NULL){
-         count++;
-         temp=temp->next;
+      ListNode* dummyNode=head;
+      int count=0;
+      while(dummyNode!=NULL){
+        count++;
+        dummyNode=dummyNode->next;
+      }
+        int del=count-n;
+         if(del == 0) {
+            ListNode* newHead = head->next;
+            delete head;
+            return newHead;
         }
-         //if count equall to length delete head
-         if(count==n) {
-            ListNode *newhead= head->next;
-            delete(head);
-            return newhead;
-         }
-        // position of node that we have to delete
-        int res=count-n;
-        temp=head;
-        
-        while(temp!=NULL){
-            res--;
-            if(res==0)
-            break;
-            temp=temp->next;
+        ListNode* temp=head;
+        for(int i=1;i<del;i++){
+          temp=temp->next;
         }
-        //code for deletion
-        ListNode *deletenode=temp->next;
+        ListNode* delNode=temp->next;
         temp->next=temp->next->next;
-        delete(deletenode);
+        delete(delNode);
         return head;
     }
 };
