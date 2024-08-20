@@ -38,6 +38,7 @@
 | [0002-add-two-numbers](https://github.com/rkrustom/Leetcodev2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rkrustom/Leetcodev2/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rkrustom/Leetcodev2/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/rkrustom/Leetcodev2/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/rkrustom/Leetcodev2/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
@@ -210,6 +212,7 @@
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
+| [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/rkrustom/Leetcodev2/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rkrustom/Leetcodev2/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/rkrustom/Leetcodev2/tree/master/0371-sum-of-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
