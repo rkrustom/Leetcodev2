@@ -155,12 +155,14 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -168,6 +170,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -175,6 +178,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
