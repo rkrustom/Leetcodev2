@@ -98,6 +98,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rkrustom/Leetcodev2/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/rkrustom/Leetcodev2/tree/master/0371-sum-of-two-integers) |
+| [0564-find-the-closest-palindrome](https://github.com/rkrustom/Leetcodev2/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/rkrustom/Leetcodev2/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -149,6 +150,7 @@
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/0151-reverse-words-in-a-string) |
+| [0564-find-the-closest-palindrome](https://github.com/rkrustom/Leetcodev2/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
