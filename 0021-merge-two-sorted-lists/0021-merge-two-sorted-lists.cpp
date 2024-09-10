@@ -21,12 +21,12 @@ public:
         list2=list2->next;
        }
        sort(v.begin(),v.end());
-       ListNode dummy;
-       ListNode* current=&dummy;
+       ListNode *dummy=new ListNode(0);
+       ListNode* current=dummy;
        for(auto it:v){
         current->next=new ListNode(it);
         current=current->next;
        }
-       return dummy.next;
+       return dummy->next;
     }
 };
