@@ -81,6 +81,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rkrustom/Leetcodev2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/rkrustom/Leetcodev2/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -125,6 +126,7 @@
 | [0268-missing-number](https://github.com/rkrustom/Leetcodev2/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/rkrustom/Leetcodev2/tree/master/1848-sum-of-unique-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
@@ -166,6 +168,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/rkrustom/Leetcodev2/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/rkrustom/Leetcodev2/tree/master/1848-sum-of-unique-elements) |
 ## Dynamic Programming
 |  |
@@ -284,6 +288,7 @@
 | [0136-single-number](https://github.com/rkrustom/Leetcodev2/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rkrustom/Leetcodev2/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rkrustom/Leetcodev2/tree/master/0371-sum-of-two-integers) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rkrustom/Leetcodev2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Memoization
 |  |
