@@ -47,6 +47,7 @@
 | [0206-reverse-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/rkrustom/Leetcodev2/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -200,6 +201,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/rkrustom/Leetcodev2/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rkrustom/Leetcodev2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/rkrustom/Leetcodev2/tree/master/1197-parsing-a-boolean-expression) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -218,6 +220,7 @@
 | [0234-palindrome-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rkrustom/Leetcodev2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/rkrustom/Leetcodev2/tree/master/1197-parsing-a-boolean-expression) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/2800-minimum-string-length-after-removing-substrings) |
