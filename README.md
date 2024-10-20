@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rkrustom/Leetcodev2/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/rkrustom/Leetcodev2/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rkrustom/Leetcodev2/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rkrustom/Leetcodev2/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
@@ -144,6 +145,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rkrustom/Leetcodev2/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rkrustom/Leetcodev2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/rkrustom/Leetcodev2/tree/master/0217-contains-duplicate) |
@@ -191,6 +193,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rkrustom/Leetcodev2/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
