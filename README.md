@@ -196,6 +196,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rkrustom/Leetcodev2/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
@@ -289,6 +290,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
@@ -346,5 +348,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0022-generate-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
