@@ -103,6 +103,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -121,6 +122,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rkrustom/Leetcodev2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -160,6 +162,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -301,6 +305,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rkrustom/Leetcodev2/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 ## Graph
 |  |
 | ------- |
