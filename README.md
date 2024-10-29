@@ -105,6 +105,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Graph
 |  |
 | ------- |
