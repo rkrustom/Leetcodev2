@@ -96,6 +96,7 @@
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rkrustom/Leetcodev2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1694-make-sum-divisible-by-p](https://github.com/rkrustom/Leetcodev2/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/rkrustom/Leetcodev2/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -173,6 +174,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
@@ -181,6 +183,7 @@
 | [0670-maximum-swap](https://github.com/rkrustom/Leetcodev2/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rkrustom/Leetcodev2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rkrustom/Leetcodev2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3195-separate-black-and-white-balls](https://github.com/rkrustom/Leetcodev2/tree/master/3195-separate-black-and-white-balls) |
@@ -307,6 +310,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rkrustom/Leetcodev2/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Graph
