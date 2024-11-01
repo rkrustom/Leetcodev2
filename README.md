@@ -217,6 +217,7 @@
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rkrustom/Leetcodev2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/rkrustom/Leetcodev2/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/rkrustom/Leetcodev2/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
