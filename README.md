@@ -218,6 +218,7 @@
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/rkrustom/Leetcodev2/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/rkrustom/Leetcodev2/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rkrustom/Leetcodev2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/rkrustom/Leetcodev2/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rkrustom/Leetcodev2/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -370,4 +371,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0022-generate-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rkrustom/Leetcodev2/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
