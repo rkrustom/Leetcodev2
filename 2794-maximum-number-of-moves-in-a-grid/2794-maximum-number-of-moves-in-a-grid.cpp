@@ -22,6 +22,6 @@ public:
         for (int row = 0; row < m; ++row) {
             maxMoves = max(maxMoves, dp[row][0]);
         }
-        return maxMoves; 
+        return maxMoves;
     }
 };
