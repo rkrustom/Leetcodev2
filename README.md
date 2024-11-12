@@ -54,6 +54,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rkrustom/Leetcodev2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rkrustom/Leetcodev2/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rkrustom/Leetcodev2/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/rkrustom/Leetcodev2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0142-linked-list-cycle-ii) |
@@ -73,6 +74,7 @@
 | [0031-next-permutation](https://github.com/rkrustom/Leetcodev2/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0136-single-number](https://github.com/rkrustom/Leetcodev2/tree/master/0136-single-number) |
@@ -248,6 +250,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0234-palindrome-linked-list) |
@@ -320,6 +323,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/rkrustom/Leetcodev2/tree/master/0322-coin-change) |
@@ -398,4 +402,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
