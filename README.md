@@ -79,6 +79,7 @@
 | [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/rkrustom/Leetcodev2/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rkrustom/Leetcodev2/tree/master/0217-contains-duplicate) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/rkrustom/Leetcodev2/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
@@ -294,6 +296,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Divide and Conquer
