@@ -93,6 +93,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/rkrustom/Leetcodev2/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/rkrustom/Leetcodev2/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/rkrustom/Leetcodev2/tree/master/1293-three-consecutive-odds) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rkrustom/Leetcodev2/tree/master/0238-product-of-array-except-self) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/rkrustom/Leetcodev2/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/1940-maximum-xor-for-each-query) |
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
@@ -194,6 +196,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -223,6 +226,7 @@
 ## Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -309,6 +313,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0215-kth-largest-element-in-an-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rkrustom/Leetcodev2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
@@ -408,6 +413,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
 |  |
@@ -418,4 +424,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
