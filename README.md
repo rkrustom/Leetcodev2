@@ -113,6 +113,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rkrustom/Leetcodev2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/rkrustom/Leetcodev2/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
@@ -185,6 +186,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rkrustom/Leetcodev2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rkrustom/Leetcodev2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
@@ -416,6 +418,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/rkrustom/Leetcodev2/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rkrustom/Leetcodev2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
 |  |
