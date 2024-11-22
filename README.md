@@ -97,6 +97,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rkrustom/Leetcodev2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/rkrustom/Leetcodev2/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/rkrustom/Leetcodev2/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rkrustom/Leetcodev2/tree/master/1333-sort-the-jumbled-numbers) |
@@ -183,6 +184,7 @@
 | [0268-missing-number](https://github.com/rkrustom/Leetcodev2/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rkrustom/Leetcodev2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1694-make-sum-divisible-by-p](https://github.com/rkrustom/Leetcodev2/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rkrustom/Leetcodev2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
