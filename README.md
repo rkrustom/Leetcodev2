@@ -95,6 +95,7 @@
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/rkrustom/Leetcodev2/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/rkrustom/Leetcodev2/tree/master/0787-sliding-puzzle) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
+| [0787-sliding-puzzle](https://github.com/rkrustom/Leetcodev2/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rkrustom/Leetcodev2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/rkrustom/Leetcodev2/tree/master/1972-rotating-the-box) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rkrustom/Leetcodev2/tree/master/0322-coin-change) |
+| [0787-sliding-puzzle](https://github.com/rkrustom/Leetcodev2/tree/master/0787-sliding-puzzle) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rkrustom/Leetcodev2/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
