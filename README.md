@@ -132,6 +132,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rkrustom/Leetcodev2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rkrustom/Leetcodev2/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3189-find-champion-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rkrustom/Leetcodev2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -394,6 +396,7 @@
 | [0322-coin-change](https://github.com/rkrustom/Leetcodev2/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/rkrustom/Leetcodev2/tree/master/0787-sliding-puzzle) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/rkrustom/Leetcodev2/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rkrustom/Leetcodev2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
