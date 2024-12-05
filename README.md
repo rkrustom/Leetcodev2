@@ -70,6 +70,7 @@
 | [1972-rotating-the-box](https://github.com/rkrustom/Leetcodev2/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rkrustom/Leetcodev2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -281,6 +282,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rkrustom/Leetcodev2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/2800-minimum-string-length-after-removing-substrings) |
