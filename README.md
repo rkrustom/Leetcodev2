@@ -142,6 +142,7 @@
 | [2716-prime-subtraction-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2716-prime-subtraction-operation) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rkrustom/Leetcodev2/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [1755-defuse-the-bomb](https://github.com/rkrustom/Leetcodev2/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rkrustom/Leetcodev2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rkrustom/Leetcodev2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rkrustom/Leetcodev2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -515,8 +519,13 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2201-valid-arrangement-of-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
