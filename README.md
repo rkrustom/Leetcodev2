@@ -149,6 +149,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rkrustom/Leetcodev2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rkrustom/Leetcodev2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
 | [2716-prime-subtraction-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rkrustom/Leetcodev2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rkrustom/Leetcodev2/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rkrustom/Leetcodev2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -390,6 +393,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rkrustom/Leetcodev2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
