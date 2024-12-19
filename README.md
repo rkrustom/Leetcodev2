@@ -99,6 +99,7 @@
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/rkrustom/Leetcodev2/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/rkrustom/Leetcodev2/tree/master/0787-sliding-puzzle) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -162,6 +163,7 @@
 | [0455-assign-cookies](https://github.com/rkrustom/Leetcodev2/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rkrustom/Leetcodev2/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rkrustom/Leetcodev2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -258,6 +260,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/rkrustom/Leetcodev2/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/rkrustom/Leetcodev2/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rkrustom/Leetcodev2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rkrustom/Leetcodev2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rkrustom/Leetcodev2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -334,6 +337,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rkrustom/Leetcodev2/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rkrustom/Leetcodev2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/rkrustom/Leetcodev2/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rkrustom/Leetcodev2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -528,6 +532,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rkrustom/Leetcodev2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Queue
