@@ -354,6 +354,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rkrustom/Leetcodev2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/rkrustom/Leetcodev2/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -372,6 +373,7 @@
 | [2201-valid-arrangement-of-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rkrustom/Leetcodev2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/rkrustom/Leetcodev2/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Matrix
 |  |
 | ------- |
