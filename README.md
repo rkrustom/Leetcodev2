@@ -147,6 +147,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -254,6 +255,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rkrustom/Leetcodev2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
 |  |
@@ -345,6 +347,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -408,6 +411,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rkrustom/Leetcodev2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
@@ -482,6 +486,7 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Database
 |  |
 | ------- |
@@ -542,6 +547,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rkrustom/Leetcodev2/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -555,4 +561,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
