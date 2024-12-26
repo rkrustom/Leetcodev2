@@ -97,6 +97,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/rkrustom/Leetcodev2/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rkrustom/Leetcodev2/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/rkrustom/Leetcodev2/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/rkrustom/Leetcodev2/tree/master/0747-min-cost-climbing-stairs) |
@@ -453,6 +454,7 @@
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/rkrustom/Leetcodev2/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/rkrustom/Leetcodev2/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/rkrustom/Leetcodev2/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/rkrustom/Leetcodev2/tree/master/1196-filling-bookcase-shelves) |
@@ -535,6 +537,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/rkrustom/Leetcodev2/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String Matching
 |  |
