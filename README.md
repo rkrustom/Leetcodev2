@@ -85,6 +85,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/rkrustom/Leetcodev2/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
@@ -556,6 +557,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rkrustom/Leetcodev2/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/rkrustom/Leetcodev2/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/rkrustom/Leetcodev2/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
