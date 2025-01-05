@@ -140,6 +140,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/rkrustom/Leetcodev2/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rkrustom/Leetcodev2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2465-shifting-letters-ii](https://github.com/rkrustom/Leetcodev2/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rkrustom/Leetcodev2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/rkrustom/Leetcodev2/tree/master/2554-minimum-total-distance-traveled) |
@@ -215,6 +216,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rkrustom/Leetcodev2/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/rkrustom/Leetcodev2/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/rkrustom/Leetcodev2/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rkrustom/Leetcodev2/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
@@ -335,6 +337,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rkrustom/Leetcodev2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/rkrustom/Leetcodev2/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rkrustom/Leetcodev2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rkrustom/Leetcodev2/tree/master/2691-count-vowel-strings-in-ranges) |
