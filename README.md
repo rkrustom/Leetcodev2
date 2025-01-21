@@ -133,6 +133,7 @@
 | [1972-rotating-the-box](https://github.com/rkrustom/Leetcodev2/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rkrustom/Leetcodev2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/rkrustom/Leetcodev2/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/rkrustom/Leetcodev2/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/rkrustom/Leetcodev2/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2232-adding-spaces-to-a-string) |
@@ -215,6 +216,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/rkrustom/Leetcodev2/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rkrustom/Leetcodev2/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/rkrustom/Leetcodev2/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/rkrustom/Leetcodev2/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rkrustom/Leetcodev2/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
@@ -417,6 +419,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/rkrustom/Leetcodev2/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/rkrustom/Leetcodev2/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/rkrustom/Leetcodev2/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rkrustom/Leetcodev2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
