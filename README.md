@@ -89,6 +89,7 @@
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rkrustom/Leetcodev2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rkrustom/Leetcodev2/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rkrustom/Leetcodev2/tree/master/0217-contains-duplicate) |
@@ -479,6 +480,7 @@
 | [0042-trapping-rain-water](https://github.com/rkrustom/Leetcodev2/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rkrustom/Leetcodev2/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rkrustom/Leetcodev2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/rkrustom/Leetcodev2/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/rkrustom/Leetcodev2/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
