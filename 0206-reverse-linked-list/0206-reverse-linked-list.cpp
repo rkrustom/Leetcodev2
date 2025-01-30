@@ -14,22 +14,19 @@ public:
         if(head==NULL) return nullptr;
         stack<int>s;
         ListNode*temp=head;
-        while(temp!=NULL){
+        while(temp!=NULL) 
+        {
             s.push(temp->val);
             temp=temp->next;
         }
-        
         ListNode*newhead=new ListNode(s.top());
         s.pop();
         ListNode*curr=newhead;
-
         while(!s.empty()){
-        curr->next=new ListNode(s.top());
-        s.pop();
-        curr=curr->next;
-
+         curr->next=new ListNode(s.top());
+         s.pop();
+         curr=curr->next;
         }
         return newhead;
-
     }
 };
