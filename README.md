@@ -385,6 +385,7 @@
 | [0113-path-sum-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rkrustom/Leetcodev2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/rkrustom/Leetcodev2/tree/master/0543-diameter-of-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -400,6 +401,7 @@
 | [0113-path-sum-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rkrustom/Leetcodev2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/rkrustom/Leetcodev2/tree/master/0543-diameter-of-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rkrustom/Leetcodev2/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -412,6 +414,7 @@
 | [0113-path-sum-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rkrustom/Leetcodev2/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rkrustom/Leetcodev2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/rkrustom/Leetcodev2/tree/master/0543-diameter-of-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rkrustom/Leetcodev2/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2201-valid-arrangement-of-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2201-valid-arrangement-of-pairs) |
