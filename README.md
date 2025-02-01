@@ -328,6 +328,7 @@
 | [0091-decode-ways](https://github.com/rkrustom/Leetcodev2/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rkrustom/Leetcodev2/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/rkrustom/Leetcodev2/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
@@ -491,6 +492,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rkrustom/Leetcodev2/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/rkrustom/Leetcodev2/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/rkrustom/Leetcodev2/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rkrustom/Leetcodev2/tree/master/1013-fibonacci-number) |
