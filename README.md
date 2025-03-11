@@ -238,6 +238,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rkrustom/Leetcodev2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/rkrustom/Leetcodev2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rkrustom/Leetcodev2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1694-make-sum-divisible-by-p](https://github.com/rkrustom/Leetcodev2/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -337,6 +338,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/rkrustom/Leetcodev2/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rkrustom/Leetcodev2/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/rkrustom/Leetcodev2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/rkrustom/Leetcodev2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/rkrustom/Leetcodev2/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rkrustom/Leetcodev2/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -601,6 +603,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/rkrustom/Leetcodev2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/rkrustom/Leetcodev2/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rkrustom/Leetcodev2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rkrustom/Leetcodev2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
