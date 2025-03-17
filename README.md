@@ -143,6 +143,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2308-divide-array-into-equal-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/rkrustom/Leetcodev2/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rkrustom/Leetcodev2/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -249,6 +250,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rkrustom/Leetcodev2/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rkrustom/Leetcodev2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2308-divide-array-into-equal-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/rkrustom/Leetcodev2/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rkrustom/Leetcodev2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rkrustom/Leetcodev2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -484,6 +486,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/rkrustom/Leetcodev2/tree/master/1848-sum-of-unique-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rkrustom/Leetcodev2/tree/master/2300-construct-string-with-repeat-limit) |
+| [2308-divide-array-into-equal-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2308-divide-array-into-equal-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rkrustom/Leetcodev2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
@@ -582,6 +585,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rkrustom/Leetcodev2/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2308-divide-array-into-equal-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rkrustom/Leetcodev2/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/rkrustom/Leetcodev2/tree/master/3394-minimum-array-end) |
