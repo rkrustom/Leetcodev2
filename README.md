@@ -164,6 +164,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/rkrustom/Leetcodev2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -197,6 +198,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rkrustom/Leetcodev2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/rkrustom/Leetcodev2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rkrustom/Leetcodev2/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -260,6 +262,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rkrustom/Leetcodev2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rkrustom/Leetcodev2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rkrustom/Leetcodev2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/rkrustom/Leetcodev2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rkrustom/Leetcodev2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
