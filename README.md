@@ -167,6 +167,7 @@
 | [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rkrustom/Leetcodev2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rkrustom/Leetcodev2/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
