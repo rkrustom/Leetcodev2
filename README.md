@@ -219,6 +219,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rkrustom/Leetcodev2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
 | [2716-prime-subtraction-operation](https://github.com/rkrustom/Leetcodev2/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/rkrustom/Leetcodev2/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rkrustom/Leetcodev2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
@@ -665,4 +666,8 @@
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/rkrustom/Leetcodev2/tree/master/1558-course-schedule-iv) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/rkrustom/Leetcodev2/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
