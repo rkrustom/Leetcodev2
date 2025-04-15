@@ -143,6 +143,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/rkrustom/Leetcodev2/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/rkrustom/Leetcodev2/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rkrustom/Leetcodev2/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rkrustom/Leetcodev2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -285,6 +286,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rkrustom/Leetcodev2/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/rkrustom/Leetcodev2/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rkrustom/Leetcodev2/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rkrustom/Leetcodev2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rkrustom/Leetcodev2/tree/master/2665-minimum-time-to-repair-cars) |
@@ -459,6 +461,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rkrustom/Leetcodev2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -480,6 +483,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -570,6 +574,7 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/rkrustom/Leetcodev2/tree/master/1511-count-number-of-teams) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Database
 |  |
@@ -653,10 +658,12 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/2868-continuous-subarrays) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/rkrustom/Leetcodev2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Search Tree
 |  |
