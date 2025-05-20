@@ -177,6 +177,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rkrustom/Leetcodev2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/rkrustom/Leetcodev2/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rkrustom/Leetcodev2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/rkrustom/Leetcodev2/tree/master/3639-zero-array-transformation-i) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rkrustom/Leetcodev2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rkrustom/Leetcodev2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/rkrustom/Leetcodev2/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
