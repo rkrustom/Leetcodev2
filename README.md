@@ -90,6 +90,7 @@
 | [0068-text-justification](https://github.com/rkrustom/Leetcodev2/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/rkrustom/Leetcodev2/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rkrustom/Leetcodev2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/rkrustom/Leetcodev2/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/rkrustom/Leetcodev2/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/rkrustom/Leetcodev2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0213-house-robber-ii) |
@@ -302,6 +303,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/rkrustom/Leetcodev2/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/rkrustom/Leetcodev2/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/rkrustom/Leetcodev2/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
