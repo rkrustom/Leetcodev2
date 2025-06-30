@@ -107,6 +107,7 @@
 | [0494-target-sum](https://github.com/rkrustom/Leetcodev2/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rkrustom/Leetcodev2/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/rkrustom/Leetcodev2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/rkrustom/Leetcodev2/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
@@ -193,6 +194,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/rkrustom/Leetcodev2/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/rkrustom/Leetcodev2/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rkrustom/Leetcodev2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
@@ -257,6 +259,7 @@
 | [0217-contains-duplicate](https://github.com/rkrustom/Leetcodev2/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rkrustom/Leetcodev2/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rkrustom/Leetcodev2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/rkrustom/Leetcodev2/tree/master/0726-number-of-atoms) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rkrustom/Leetcodev2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rkrustom/Leetcodev2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -516,6 +519,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rkrustom/Leetcodev2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/rkrustom/Leetcodev2/tree/master/1848-sum-of-unique-elements) |
@@ -647,6 +651,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rkrustom/Leetcodev2/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rkrustom/Leetcodev2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rkrustom/Leetcodev2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/rkrustom/Leetcodev2/tree/master/1755-defuse-the-bomb) |
