@@ -397,6 +397,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rkrustom/Leetcodev2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/rkrustom/Leetcodev2/tree/master/3451-string-compression-iii) |
+| [3617-find-the-original-typed-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3617-find-the-original-typed-string-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
