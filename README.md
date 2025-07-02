@@ -247,6 +247,7 @@
 | [2571-find-the-pivot-integer](https://github.com/rkrustom/Leetcodev2/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rkrustom/Leetcodev2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rkrustom/Leetcodev2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/rkrustom/Leetcodev2/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
@@ -398,6 +399,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rkrustom/Leetcodev2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/rkrustom/Leetcodev2/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/rkrustom/Leetcodev2/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
@@ -561,6 +563,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/rkrustom/Leetcodev2/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rkrustom/Leetcodev2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rkrustom/Leetcodev2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3618-find-the-original-typed-string-ii](https://github.com/rkrustom/Leetcodev2/tree/master/3618-find-the-original-typed-string-ii) |
 ## Graph
 |  |
 | ------- |
